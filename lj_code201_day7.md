@@ -1,0 +1,3 @@
+#Daily Learning Journal, Day 7, 8/23/16
+
+##Day 7 Today was a tough, but good day.  I did well with the rendering the table into html.  I did it without looking back at the example for the most part to try and help cement the learning.  I'm still struggling a bit with for loops.  The general idea and syntax is not the issue, I just seem to miss a step sometimes that isn't occurring to me yet.  Tim was helpful in showing me how to chase down an issue I was having which turned out to be a typo. The good part was that it was a good introduction to chasing down where there is an error in your code which is new to me....Thanks everyone for your help!
