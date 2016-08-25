@@ -1,0 +1,3 @@
+#Daily Learning Journal, Day 8, 8/24/16
+
+##Day 8 Today went OK, I worked through the table adjustment from yesterday's lab pretty well.  I struggled with the new lab, especially with the calling of the new row.  I seem to be having similar issues every day: 1. silly errors because I'm rushing to finish. 2. Understanding the big picture of how everything relates to each other so that I know when/how to connect them. 3. Simply knowing what JS wants even when I know exactly what I want to do...
