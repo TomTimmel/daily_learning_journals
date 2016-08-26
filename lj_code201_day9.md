@@ -1,0 +1,3 @@
+#Daily Learning Journal, Day 9 , 8/25/16
+
+##Day 9 I thought the lecture portion was very helpful today.  I appreciated being able to go over the structure, syntax and terminology of what we have learned so far.  A good review and more importantly, clarification.  Also, having some time to work on CSS was valuable.  I am still frustrated during the lab time by struggling with the specifics of a particular operation when I understand the concepts but do not have the skills to code in JS. I am wasting a great deal of time searching for answers that I am not finding.... 
