@@ -1,0 +1,3 @@
+#Daily Learning Journal, Day 18 , 9/7/16
+
+##Day 18  Most of our coding has been done as a team, but the last couple of days we have been working on different aspects of the project separately.  This has been good for my development as I can take my time and really think through the logic before I start to code.  This sets me up to be more confident and effective while coding in JS.  The project is still going well and I feel good about being able to finish on time with all of the functionality we are hoping to include....
